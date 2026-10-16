@@ -1,0 +1,16 @@
+# Local runtime data and generated files
+**/downloads/
+**/logs/
+**/repair-backups/
+**/operations/
+**/__pycache__/
+**/*.pyc
+**/*.log
+**/*.tmp
+.env
+.env.*
+.vs/
+.vscode/
+node_modules/
+Thumbs.db
+Desktop.ini

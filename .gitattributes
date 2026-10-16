@@ -1,0 +1,6 @@
+* text=auto
+*.ps1 text eol=crlf
+*.bat -text
+*.cmd -text
+*.md text eol=lf
+tools/pdf-watermark/vendor/** -text
